@@ -1,7 +1,6 @@
 # Hi! I'm [Ratchatapol Phuangamphan]
 
-# Welcome to my Github Profile
-
+### Welcome to my Github Profile
 ### 💻 MobileApp Develop | Tech Enthusiast | Open Source Lover
 
 <p align="left">
