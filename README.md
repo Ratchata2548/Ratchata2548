@@ -1,5 +1,5 @@
-<h1>Hi! I'm [Ratchatapol Phuangamphan]<br>
-<h3>Welcome to my Github Profile<br>
+<h1>Hello! I'm [Ratchatapol Phuangamphan]<br>
+<h3>Welcome to My Github Profile<br>
 <h2>💻 MobileApp Develop | Tech Enthusiast | Open Source Lover<br>
 
 # 🧠 My Skill
