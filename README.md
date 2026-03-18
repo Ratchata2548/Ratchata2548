@@ -8,6 +8,12 @@
 - **Native iOS/Android**: Kotlin, Swift(70% coverage)
 - **Mobile Testing**: JUint
 - **Tools & Backend**: Firebase
+### Software Testing
+- **Manual Testing**: Test Case/Scenario Design, Bug Reporting
+- **Automation**: Katalon Studio, Eclipse JUnit (75% Coverage)
+- **API Testing**: Postman, Katalon API Validation
+- **Testing**: Postman, Katalon Studio, JUnit
+- **TestCase/TestScanario**: GoogleSheet
 ### 🖥️ Frontend Develop
 - HTML / CSS / JavaScript
 - React.js / Tailwind CSS
