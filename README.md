@@ -3,7 +3,7 @@
 <h2>💻 MobileApp Develop | Tech Enthusiast | Open Source Lover<br>
 
 # 🧠 My Skill
-### 🛠️ Technique
+### 🛠️ AndroidApp Develop
 - **Cross-Platform**: Flutter, Android Studio
 - **Native iOS/Android**: Kotlin, Swift(70% coverage)
 - **Mobile Testing**: JUint
