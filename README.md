@@ -4,8 +4,8 @@
 
 # 🧠 My Skill
 ### 🛠️ AndroidApp Develop
-- **Cross-Platform**: Flutter, Android Studio
-- **Native iOS/Android**: Kotlin, Swift(70% coverage)
+- **Cross-Platform**: Android Studio
+- **Native iOS/Android**: Kotlin(70% coverage)
 - **Mobile Testing**: JUint
 - **Tools & Backend**: Firebase
 ### Software Testing
